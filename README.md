@@ -17,3 +17,7 @@ Copyright (c) 2022 TRENDcreate
 ## Tech Stack
 
 - [Nim Programming Language](https://nim-lang.org/)
+
+## Development
+
+開発方式については[貢献ガイド](/CONTRIBUTING.md)をご覧ください。
